@@ -1,2 +1,2 @@
 # jogo-da-forca
-Novo projeto game 
+Projeto mini gamer
