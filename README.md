@@ -1,2 +1,2 @@
-# jogo-da-forca
+# Jogo-da-forca
 Projeto mini gamer
