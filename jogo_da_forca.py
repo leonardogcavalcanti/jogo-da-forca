@@ -2,7 +2,7 @@ import random
 
 def imprime_mensagem_abertura():
     print("*********************************")
-    print("***Bem vindo(a) ao jogo da Forca!***")
+    print("**Bem vindo(a) ao jogo da Forca!*")
     print("*********************************")
 
 def carrega_palavra_secreta():
